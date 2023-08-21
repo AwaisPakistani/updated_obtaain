@@ -1,0 +1,28 @@
+.main-header{
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;   
+}
+.mainhome a{
+    text-decoration: none;
+}
+header .site-name{
+    color: white;
+}
+header .nav .nav-link{
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+}
+footer .social-icons{
+    border-radius: 100%;
+}
+.footer-pages div{
+    color: white;
+}
+.contact .btn-lg:hover{
+    /* background-color:white;
+    color:black;
+    border:1px solid black; */
+}
